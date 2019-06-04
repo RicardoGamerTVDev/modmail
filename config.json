@@ -1,7 +1,7 @@
 {
-    "TOKEN": "NTc0NjE1MDk3MDg4MTQ3NTE0.XM7_ew.56arMxC94AOj_e-CIftJeruWFbA",
+    "TOKEN": "NTg1NTA5OTEwNjQ1NTcxNjA0.XPahmQ.DwkdzE6NccM5EvgwsYxXm-f18Ow",
     "LOG_URL": "https://mail-loogs.herokuapp.com/",
-    "GUILD_ID": 568089337527533618,
-    "OWNERS": "556587798052995103,541417048153260063",
+    "GUILD_ID": 583589944837144586,
+    "OWNERS": "429428901266325506,556587798052995103",
     "MONGO_URI": "mongodb+srv://mail-mail:Hola12345@cluster0-pftkb.mongodb.net/test?retryWrites=true"
 }
