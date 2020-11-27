@@ -1,7 +1,7 @@
 {
-    "TOKEN": "NTg1NjAyNDc3NTU1MDU2NjY2.XPb23w.ZB5DzRfGu2KZJh-SiMX8apGMrd4",
-    "LOG_URL": "https://logviewer-67543.herokuapp.com/",
-    "GUILD_ID": 578681362492686364,
-    "OWNERS": "412089660953722883,556587798052995103",
-    "MONGO_URI": "mongodb+srv://mail-mail:Hola12345@cluster0-pftkb.mongodb.net/test?retryWrites=true"
+    "TOKEN": "NzcyMTcwMDY2MjQ2NTAwMzgz.X52xag.j9dKPbUjfhQ2-CEbsOCpCnYY2ac",
+    "LOG_URL": "https://recklm-logviewer.herokuapp.com/",
+    "GUILD_ID": 745733432641978379,
+    "OWNERS": "560249348487905280",
+    "MONGO_URI": "mongodb+srv://ModMailRecklm:<password>@cluster0.otbud.mongodb.net/<dbname>?retryWrites=true&w=majority"
 }
